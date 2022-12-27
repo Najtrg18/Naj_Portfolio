@@ -1,7 +1,7 @@
 # Naj_Portfolio
 My data science projects portfolio
 
-# Project I1-Fruit-category-Identification
+# [Project I1-Fruit-category-Identification](https://github.com/Najtrg18/I1-Fruit-Category-Identification)
 A project of the Data Scientist professional certification with OpenClassRooms
 - Data : Sourced from: https://www.kaggle.com/moltean/fruits
 - Objective : Implement a fruit category recognition app in a Big Data environment
