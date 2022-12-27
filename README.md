@@ -20,3 +20,5 @@ A project of the Data Scientist professional certification with OpenClassRooms
     - Big Data libraries : PySpark, Sparl SQL, SparkML, Boto3
     - Other libraires : Keras TensorfFlow, Scikit-learn
     - Pre-processing, Reduction and Modeling : VGG16, PCA, TSNE, KMeans
+    
+   ![](https://github.com/Najtrg18/Naj_Portfolio/blob/main/images/Screenshot%202022-12-27%20184455.png)
