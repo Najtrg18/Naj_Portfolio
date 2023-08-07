@@ -24,3 +24,13 @@ A project of the Data Scientist professional certification with OpenClassRooms
    ![](https://github.com/Najtrg18/Naj_Portfolio/blob/main/images/Screenshot%202022-12-27%20184455.png)
 
   # [Project F1-Scoring-Model-Dashboard](https://github.com/Najtrg18/F1-Scoring-Model-Dashboard)
+
+  # [Project C3-Consumer-goods-classification](https://github.com/Najtrg18/C3-Consumer-Goods-Classification)
+
+  # [Project C2-Ecommerce-Customer-Segmentation](https://github.com/Najtrg18/C2-Ecommerce-Customer-Segmentation)
+
+  # [Project G1-Predicting-Energy-Consumption](https://github.com/Najtrg18/G1-Predicting-Energy-Consumption)
+
+  # [Project H1-Health-Application-Feasibility](https://github.com/Najtrg18/H1-Health-Application-Feasibility)
+
+  # [Project F1-Scoring-Model-Dashboard](https://github.com/Najtrg18/F1-Scoring-Model-Dashboard)
