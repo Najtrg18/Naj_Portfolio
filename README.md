@@ -22,3 +22,5 @@ A project of the Data Scientist professional certification with OpenClassRooms
     - Pre-processing, Reduction and Modeling : VGG16, PCA, TSNE, KMeans
     
    ![](https://github.com/Najtrg18/Naj_Portfolio/blob/main/images/Screenshot%202022-12-27%20184455.png)
+
+  # [Project F1-Scoring-Model-Dashboard](https://github.com/Najtrg18/F1-Scoring-Model-Dashboard)
