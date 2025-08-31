@@ -1,4 +1,4 @@
-# Naj_Portfolio
+# Portfolio
 My data science projects portfolio
 
 # [Project I1-Fruit-category-Identification](https://github.com/Najtrg18/I1-Fruit-Category-Identification)
